@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HMS-SDK-2.4.0.300-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cd174a83751ede380c4c0996ad56e96808e7d2cd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cd174a83751ede380c4c0996ad56e96808e7d2cd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
